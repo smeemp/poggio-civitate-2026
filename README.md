@@ -4,11 +4,15 @@ This is a repository of all my coding projects from my time at the Poggio Civita
 # Content Descriptions
 
 **Projects:**
-*1. Incorrect Locus Bounds Lister
-2. Improving Custom Search Website
-3. Locus Coordinate Converter
-4. Object Finder Images and Map
-5. URI Population*
+1. *Incorrect Locus Bounds Lister*
+
+2. *Improving Custom Search Website*
+
+3. *Locus Coordinate Converter*
+
+4. *Object Finder Images and Map*
+
+5. *URI Population*
 
 ## 1. Incorrect Locus Bounds Lister
 
