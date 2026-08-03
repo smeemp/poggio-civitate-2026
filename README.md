@@ -22,7 +22,7 @@ This is a repository of all my coding projects from my time at the Poggio Civita
 
 **Summary:** Uses an Open Context API to list trenches whose locus corner points are likely incorrectly located.
 
-This project collects every trench locus that is likely to have at least one incorrect coordinate point, utilizing an API provided by *[Open Context](https://opencontext.org). It gathers relevant information on each outlier from their OpenContext data: 
+This project collects every trench locus that is likely to have at least one incorrect coordinate point, utilizing an API provided by [Open Context](https://opencontext.org). It gathers relevant information on each outlier from their OpenContext data: 
 
 - The locus entry's PC number
 - URL
@@ -117,7 +117,7 @@ It was fairly efficient and accurate, and while some data wasn't able to be matc
 You probably do not need to use any of this!!! Probably don't!! But if you are a CS/data science person/whatever from Poggio and you need one of my programs for some reason/want to use pieces of it just download it! I annotate (fairly) well so everything should be understandable(ish), but if you have any questions feel free to email me at ejblalock17@gmail.com. :)
 
 # Acknowledgements
-THANK YOU SO MUCH TO MY PROFESSOR COLE ADAM REILLY! I wouldn't have been able to complete a lot of these projects without them, let alone know this program even existed!
+THANK YOU SO MUCH TO MY PROFESSOR COLE ADAM REILLY! I wouldn't have been able to complete a lot (any) of these projects without them, let alone know this program even existed!
 
 Thank you to my fellow student Flint who listened to me/tolerated me losing my mind when my stuff didn't work (many times)! And also helped me see when I was being a big stupid!
 
